@@ -1,6 +1,6 @@
 # site settings
 title: '2𝑓 ߹ Second Order Harmonics ߹'
-subtitle: "…Artisnanal Analog Audio Engineering…"
+subtitle: "…Analogue Sound for the Digital Age…"
 email: info@secondorderharmonics.eu
 description: "The Website for high-quality Analog Audio gear & custom builds."
 baseurl: ""
@@ -24,7 +24,7 @@ socials:
   Facebook: https://www.facebook.com/profile.php?id=100090381861518
   Whatsapp: https://wa.link/tifdl9
   gitHub-alt: https://github.com/SecondOrderHarmonics
-  Patreon: https://www.patreon.com/secondorderharmonics
+  patreon: https://www.patreon.com/secondorderharmonics
 
 # build settings
 markdown: kramdown
