@@ -22,10 +22,9 @@ tiles-count: 7
 # You need to restart jekyll for changes to have an effect
 socials:
   Facebook: https://www.facebook.com/profile.php?id=100090381861518
-  Twitter: https://twitter.com/a_z_e_t
-  comments-o: "https://chaos.social/@azet"
   Whatsapp: https://wa.link/tifdl9
-  gitHub-alt: https://github.com/azet
+  gitHub-alt: https://github.com/SecondOrderHarmonics
+  Patreon: https://www.patreon.com/secondorderharmonics
 
 # build settings
 markdown: kramdown
