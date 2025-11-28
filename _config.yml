@@ -1,8 +1,8 @@
 # site settings
-title: '2𝑓 ߹ Second Order Harmonics ߹'
+title: '$2𝑓$ ߹ Second Order Harmonics ߹'
 subtitle: "…Analogue Sound for the Digital Age…"
 email: info@secondorderharmonics.eu
-description: "The Website for high-quality Analog Audio gear & custom builds."
+description: "High-quality Analog Audio Gear & custom builds."
 baseurl: ""
 url: https://secondorderharmonics.com
 author: Aaron Zauner
@@ -21,10 +21,10 @@ tiles-count: 7
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  patreon: https://www.patreon.com/secondorderharmonics
   Facebook: https://www.facebook.com/profile.php?id=100090381861518
   Whatsapp: https://wa.link/tifdl9
   gitHub-alt: https://github.com/SecondOrderHarmonics
-  patreon: https://www.patreon.com/secondorderharmonics
 
 # build settings
 markdown: kramdown
@@ -45,6 +45,6 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
 
 #EOF

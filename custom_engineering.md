@@ -2,7 +2,7 @@
 title: Custom Audio Engineering
 layout: landing
 description: 'High quality tailor made custom audio engineering solutions. Built ourselves our by the best in the field.'
-image: assets/images/rack_02.jpg
+image: assets/images/az-testing.png
 nav-menu: true
 ---
 
