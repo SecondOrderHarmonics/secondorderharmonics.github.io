@@ -10,6 +10,24 @@ show_tile: false
 
 Welcome to **secondorderharmonics.com/.eu** &mdash; find out more [about us, our work and passion](/about.html).
 
+
+## Our work and focus
+Hand-crafted and artisanal Audio/Studio exquisites ~ from new products to modded clones of only the best consoles/parts from the 50ies to late 80ies ~ design, manufacture, customization, repair & improvements. We also rent-out gear and experts on T&M basis for tracking, mixing and recording sessions; make sure a dead OpAmp or Capacitor isn't holding up thousands of euros of Studio- and Musicians' Time! Need something you can't really find as a product on the market? Or even better: there's a product you'd like but it's missing many options (e.g. inserts, busses, outputs, summing, specific amplification or coloring via tubes, transformers or modular colour modules)? You've come to the right place. Whether it be a modification of an existing outboard unit, re-capping and upgrading old Yamaha, Soundcraft, Tascam (Indeed it's rare, but we also do repair, upgrades and mods on vintage Neve, EMI and API originals!).
+
+### Modification and custom designs:
+We design custom audio circuits for various use cases: from clones of vintage equipment to mods of them, summing circuits, ADC/DACs, intelligent patch-bay designs and Discrete Operational Amplifiers, among many other things. Get in contact if your studio is missing a piece of equipment or central component to glue many of your precious studio-pieces together.
+
+### Summing and Compression:
+We specialize in Summing and Busses of Consoles among microphone
+pre-amps, EQs and above everything else: Compression! of every kind. Be
+it Vari-Mu (aka Tube), VCA, FET, Diode-Bridge (e.g. Neve 33609), PWM (Py), 
+FET (1173) or Opto (LA2A..3A & many others, old and new) ~ compressors
+have become an obession for us. Along with mastering EQs they've had the
+biggest impact on sound quality, tracking depth and thickness and
+clarity of sound without loss in quality.
+
+## A Passion for the right-sounding gear at the right place & time
+
 1. Customized Clones of Neve, API, EMI, and other famous audio consoles
    (we prefer 500 Series for various reasons, but work with any kind of
    out-board gear and also directly on vintage consoles from many
@@ -48,20 +66,5 @@ Welcome to **secondorderharmonics.com/.eu** &mdash; find out more [about us, our
     (distortion) lower than 0.00004%. We also work on 'fast' and
     'colored' Discrete OpAmps (DOAs) in API-2520 or JE-990 Pinout.
 4.  We support OSHW (Open Source Hardware, usually under a Creative Commons or CERN OHL License) and publish our work on GitHub. This includes all artefacts: Schematics, eCAD files, Gerbers, PnP (Pick&Place), BOM as well as any embedded Firmware Source Code (if relevant) and Documentation. We educate about audio electronics, common misconceptions, good/bad ideas - and are happy about any input you might have to share. Questions to ask or a product we can realize for you & ideally the community in general. Check out our [Github](https://github.com/secondorderharmonics) or get directly in contact with us (see form below).
-
-## Our work and focus
-Hand-crafted and artisanal Audio/Studio exquisites ~ from new products to modded clones of only the best consoles/parts from the 50ies to late 80ies ~ design, manufacture, customization, repair & improvements. We also rent-out gear and experts on T&M basis for tracking, mixing and recording sessions; make sure a dead OpAmp or Capacitor isn't holding up thousands of euros of Studio- and Musicians' Time! Need something you can't really find as a product on the market? Or even better: there's a product you'd like but it's missing many options (e.g. inserts, busses, outputs, summing, specific amplification or coloring via tubes, transformers or modular colour modules)? You've come to the right place. Whether it be a modification of an existing outboard unit, re-capping and upgrading old Yamaha, Soundcraft, Tascam (Indeed it's rare, but we also do repair, upgrades and mods on vintage Neve, EMI and API originals!). 
-
-
-### Summing and Compression:
-We specialize in Summing and Busses of Consoles among microphone
-pre-amps, EQs and above everything else: Compression! of every kind. Be
-it Vari-Mu (aka Tube), VCA, FET, Diode-Bridge (e.g. Neve 33609), PWM (Py), 
-FET (1173) or Opto (LA2A..3A & many others, old and new) ~ compressors
-have become an obession for us. Along with mastering EQs they've had the
-biggest impact on sound quality, tracking depth and thickness and
-clarity of sound without loss in quality.
-
-
 
 **or go directly to:**
