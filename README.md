@@ -6,7 +6,7 @@ Using the "Forty" Theme by Andrew Banchich: https://jekyllthemes.io/theme/forty-
 
 ## License: MIT
 
-      Copyright (c) 2023 Aaron Zauner <azet@azet.org>
+      Copyright (c) 2025 2𝑓»Second Order Harmonics <info@secondorderharmonics.eu>
       
       Permission is hereby granted, free of charge, to any person obtaining
       a copy of this software and associated documentation files (the
