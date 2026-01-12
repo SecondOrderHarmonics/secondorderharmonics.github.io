@@ -42,6 +42,9 @@ collections:
 #permalink: /:categories/:title/
 timezone: Europe/Vienna
 
+# Pliugins
+plugins:
+- jekyll-remote-theme
 
 exclude:
 - "*.gemspec"
