@@ -26,17 +26,14 @@ __10% price reduction if you buy directly from us to save on reverb/ebay costs a
 ## Buying on Reverb and Ebay:
 
 They're also up on reverb and ebay as mentioned earlier:
-- [](https://reverb.com/shop/secondorderharmonics)
-- [](https://www.ebay.com/usr/az_et)
+- [https://reverb.com/shop/secondorderharmonics]()
+- [https://www.ebay.com/usr/az_et]()
 
 ## Pics
 
-![img](assets/images/posts/gearsale/hydrasynth.jpg)
-![img](assets/images/posts/gearsale/studer01.jpg)
-![img](assets/images/posts/gearsale/studer02.jpg)
-![img](assets/images/posts/gearsale/fs-chassis01.jpg)
-![img](assets/images/posts/gearsale/fs-chassis02.jpg)
-![img](assets/images/posts/gearsale/e-karacter01.jpg)
-![img](assets/images/posts/gearsale/e-karacter02.jpg)
-![img](assets/images/posts/gearsale/e-karacter03.jpg)
+| ![img](assets/images/posts/gearsale/hydrasynth.jpg) |
+![img](assets/images/posts/gearsale/studer01.jpg) | ![img](assets/images/posts/gearsale/studer02.jpg)
+![img](assets/images/posts/gearsale/fs-chassis01.jpg) |
+![img](assets/images/posts/gearsale/fs-chassis02.jpg) | ![img](assets/images/posts/gearsale/e-karacter01.jpg)
+![img](assets/images/posts/gearsale/e-karacter02.jpg) | ![img](assets/images/posts/gearsale/e-karacter03.jpg)
 
