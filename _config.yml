@@ -21,10 +21,7 @@ tiles-count: 7
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  Shop: https://reverb.com/shop/secondorderharmonics
-  Ebay: https://www.ebay.com/usr/az_et
   github-alt: https://github.com/SecondOrderHarmonics
-  Patreon: https://www.patreon.com/secondorderharmonics
   Facebook: https://www.facebook.com/profile.php?id=100090381861518
   Whatsapp: https://wa.link/tifdl9
 
