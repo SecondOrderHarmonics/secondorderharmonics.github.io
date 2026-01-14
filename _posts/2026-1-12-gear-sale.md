@@ -32,7 +32,7 @@ __10% price reduction if you buy directly from us to save on reverb/ebay costs a
 
 They're also up on reverb and ebay as mentioned earlier:
 
- 1. [](https://reverb.com/shop/secondorderharmonics)
- 2. [](https://www.ebay.com/usr/az_et)
+ 1. [Reverb.com](https://reverb.com/shop/secondorderharmonics)
+ 2. [eBay](https://www.ebay.com/usr/az_et)
 
 
