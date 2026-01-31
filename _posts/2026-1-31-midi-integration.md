@@ -37,16 +37,31 @@ Of course you would also be able to pair or directly connect any MIDI controller
 
 Today a lot bring out of the box support for networked MIDI via software
 or can easily be integrated to use MIDI over Ethernet/Bluetooth via
-adapters. 
+adapters.
 
-What protocol are we specifically talking about? Well RTP-MIDI. It's an
-open standard that most MIDI-support products (switches/routers/hubs)
+What protocol are we specifically talking about?
+[RTP-MIDI](https://en.wikipedia.org/wiki/RTP-MIDI).
+It's an open standard that most MIDI-support products (switches/routers/hubs)
 support. As does Windows, MacOS X/iOS and Linux/Android.
 
 - [RTP-MIDI or MIDI Over Networks
 (midi.org)](https://www.midi.org/midi-articles/rtp-midi-or-midi-over-networks)
-- [RTP-MIDI (wikipedia.org)](https://en.wikipedia.org/wiki/RTP-MIDI)
+- [rtpMIDI-driver for
+Windows](https://www.tobias-erichsen.de/software/rtpmidi.html)
 - [An Implementation Guide for RTP MIDI (RFC 4696)](https://www.rfc-editor.org/rfc/rfc4696.html)
+
+##### What about ipMIDI? or BLEMIDI?
+
+There's an older non-standardized spec of MIDI over IP (Internet
+Protocol) which of course also works over Ethernet and WiFi but is less
+flexible. There's some support in software and old SSL products, some
+commercial applications use it, but very few. Support is possible and
+easiy added - we will add support if it's requested. The ESP
+microcontrollers have readily available libraries for all modern MIDI
+transports including RTP-MIDI, ipMIDI, BLEMIDI and MIDI over USB.
+
+- [Arduino MIDI Library -
+Transports](https://github.com/FortySevenEffects/arduino_midi_library?tab=readme-ov-file#other-transport-mechanisms)
 
 #### What about adding MIDI Jacks and MIDI Through?
 
