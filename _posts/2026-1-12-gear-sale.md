@@ -10,13 +10,13 @@ We currently have a lot of studio and production gear to sell at the moment! We 
 ### For sale:
 
 - ASM Hydrasynth Desktop in almost new condition
-- Studer 963 2x Mono Mic/Line Preamp & EQ as racked channel-strips in custom wood case (cleaned, refurbed, overhauled and circuit checked with Osci and MM)
+- <del>Studer 963 2x Mono Mic/Line Preamp & EQ as racked channel-strips in custom wood case (cleaned, refurbed, overhauled and circuit checked with Osci and MM)</del>
 - Eylsia Karacter 500 Series Stereo Saturator with original packaging, used only twice in a rack, like new.
 - 2x Fredenstein Bento 10S Chassis for 500 Series: 10-Slot Chassis with internal PSU. One with studio labeling stickers on it (easily removed), one with some rack burn from a touring case on the front panel (which made some of the LED writing less intelligable but works fine) - both cleaned, tested. One used to be rented out, the other one used to be one of our personal testing units and is in very good condition.
 
 
-| ![img](assets/images/posts/gearsale/hydrasynth.jpg) | ![img](assets/images/posts/gearsale/studer01.jpg) | ![img](assets/images/posts/gearsale/studer02.jpg) |
-| ![img](assets/images/posts/gearsale/fs-chassis01.jpg) | ![img](assets/images/posts/gearsale/fs-chassis02.jpg) | ![img](assets/images/posts/gearsale/e-karacter01.jpg) |
+| ![img](assets/images/posts/gearsale/hydrasynth.jpg)   | ![img](assets/images/posts/gearsale/fs-chassis01.jpg) |
+| ![img](assets/images/posts/gearsale/fs-chassis02.jpg) | ![img](assets/images/posts/gearsale/e-karacter01.jpg) |
 | ![img](assets/images/posts/gearsale/e-karacter02.jpg) | ![img](assets/images/posts/gearsale/e-karacter03.jpg) |
 
 #### Previous storage and gear state/maintainance:
