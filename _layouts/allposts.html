@@ -11,8 +11,8 @@
   <body>
 
     {% include header.html %} 
-    
-    
+
+
     <!-- Main -->
     <div id="main" class="alt">
 
@@ -21,7 +21,7 @@
 	<div class="inner">
    {% for post in site.posts %}
     {% if post.title != 404 %}
-    {% unless post.categories contains "products" %}
+      {% unless post %}   {# .categories contains "products" %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>
