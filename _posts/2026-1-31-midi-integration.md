@@ -50,7 +50,7 @@ support. As does Windows, MacOS X/iOS and Linux/Android.
 Windows](https://www.tobias-erichsen.de/software/rtpmidi.html)
 - [An Implementation Guide for RTP MIDI (RFC 4696)](https://www.rfc-editor.org/rfc/rfc4696.html)
 
-##### What about ipMIDI? or BLEMIDI?
+###### What about ipMIDI? or BLEMIDI?
 
 There's an older non-standardized spec of MIDI over IP (Internet
 Protocol) which of course also works over Ethernet and WiFi but is less
@@ -62,6 +62,14 @@ transports including RTP-MIDI, ipMIDI, BLEMIDI and MIDI over USB.
 
 - [Arduino MIDI Library -
 Transports](https://github.com/FortySevenEffects/arduino_midi_library?tab=readme-ov-file#other-transport-mechanisms)
+
+###### Is this going to support SysEx?
+
+This would be possible, depending on application and retrofit device.
+SysEx is very seldomly used anymore these days and won't be a standard
+feature in any of our default implementation and software releases/updates
+for the microcontroller driving MIDI and configuring your retrofitted
+device.
 
 #### What about adding MIDI Jacks and MIDI Through?
 
